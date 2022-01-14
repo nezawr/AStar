@@ -1,5 +1,5 @@
-# AStar
+# A*
 
-Demo Of Algorithm on a randomly generated maze:
+Demo of the algorithm on a randomly generated maze:
 
 https://nezawr.github.io/AStar/
